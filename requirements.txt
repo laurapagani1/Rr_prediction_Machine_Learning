@@ -1,7 +1,7 @@
 streamlit
 numpy
 pandas
-pickle
+pickle5
 plotly
 scikit_learn
 altair
