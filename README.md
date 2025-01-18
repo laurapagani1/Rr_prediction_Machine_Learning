@@ -127,10 +127,10 @@ The application uses a Decision Tree Regressor model trained on standardized fea
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-[Your chosen license]
+[Open Access]
 
 ## Contact
-[Your contact information]
+[laura.pagani@edu.unige.it]
 
 ---
 *This tool is intended for preliminary design estimates only and should not be used as the sole basis for final design decisions.*
