@@ -110,7 +110,7 @@ def add_predictions(input_data):
     
 def main():
     st.set_page_config(
-        page_title = "GenoaSail Machine Learning Rr app",
+        page_title = "Machine Learning Rr app Calculator",
         page_icon=':smile:',
         layout='wide',
         initial_sidebar_state='expanded'
@@ -124,7 +124,7 @@ def main():
     
     
     with st.container():
-        st.title('Hello from GenoaSail!')
+        st.title('Machine Learning Rr app Calculator')
         st.write('This is a simple machine learning app to retrieve Rr, which is the resistance encountered by the ship as it moves through the water. This is the target variable in the dataset and can include various forms of resistance such as frictional, wave-making, and viscous resistance.')
     
     col1, col2 = st.columns([4,1])
