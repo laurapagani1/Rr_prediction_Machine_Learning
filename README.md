@@ -1,4 +1,5 @@
 # Rr_prediction_Machine_Learning: Ship Resistance Calculator
+<img width="518" alt="image" src="https://github.com/user-attachments/assets/0b93f69e-3ae2-4df8-9057-05f16ff6ed6b" />
 
 ## Overview
 This application is a machine learning-powered tool designed to predict ship resistance (Rr) based on various hull design parameters. It provides naval architects and marine engineers with a quick and intuitive way to estimate a vessel's resistance through water using key hydrostatic parameters.
